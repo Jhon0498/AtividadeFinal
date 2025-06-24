@@ -35,7 +35,8 @@ Navegue até a pasta do projeto:
 bash
 Copiar
 Editar
-cd "/c/Users/Grupo Amcs/Documents/transacao-main"
+Caminho do local abaixo
+...    ....
 Execute o projeto com Maven Wrapper:
 
 bash
